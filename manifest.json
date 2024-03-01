@@ -1,0 +1,11 @@
+{
+    "name": "Cricket updates Extension",
+    "version": "1.0.0",
+    "description": "Learning about Extension development",
+    "manifest_version": 3,
+    "author": "Rishabh Pandey",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket updates Extension"
+    }
+}
